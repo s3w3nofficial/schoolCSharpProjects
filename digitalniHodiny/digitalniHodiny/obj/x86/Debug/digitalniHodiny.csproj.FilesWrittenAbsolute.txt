@@ -1,0 +1,5 @@
+/home/martin/Dokumenty/skola/private/PRG/projekty/digitalniHodiny/digitalniHodiny/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/martin/Dokumenty/skola/private/PRG/projekty/digitalniHodiny/digitalniHodiny/bin/Debug/digitalniHodiny.exe.mdb
+/home/martin/Dokumenty/skola/private/PRG/projekty/digitalniHodiny/digitalniHodiny/bin/Debug/digitalniHodiny.exe
+/home/martin/Dokumenty/skola/private/PRG/projekty/digitalniHodiny/digitalniHodiny/obj/x86/Debug/digitalniHodiny.exe
+/home/martin/Dokumenty/skola/private/PRG/projekty/digitalniHodiny/digitalniHodiny/obj/x86/Debug/digitalniHodiny.exe.mdb
