@@ -1,0 +1,6 @@
+c:\users\urban\documents\visual studio 2015\Projects\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+c:\users\urban\documents\visual studio 2015\Projects\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe
+c:\users\urban\documents\visual studio 2015\Projects\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.pdb
+c:\users\urban\documents\visual studio 2015\Projects\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+c:\users\urban\documents\visual studio 2015\Projects\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.exe
+c:\users\urban\documents\visual studio 2015\Projects\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.pdb

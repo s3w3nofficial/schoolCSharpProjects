@@ -1,0 +1,6 @@
+c:\users\urban\documents\visual studio 2015\Projects\TestingSchool\TestingSchool\bin\Debug\TestingSchool.exe.config
+C:\Users\urban\Documents\Visual Studio 2015\Projects\TestingSchool\TestingSchool\bin\Debug\TestingSchool.exe
+C:\Users\urban\Documents\Visual Studio 2015\Projects\TestingSchool\TestingSchool\bin\Debug\TestingSchool.pdb
+C:\Users\urban\Documents\Visual Studio 2015\Projects\TestingSchool\TestingSchool\obj\Debug\TestingSchool.csprojResolveAssemblyReference.cache
+C:\Users\urban\Documents\Visual Studio 2015\Projects\TestingSchool\TestingSchool\obj\Debug\TestingSchool.exe
+C:\Users\urban\Documents\Visual Studio 2015\Projects\TestingSchool\TestingSchool\obj\Debug\TestingSchool.pdb

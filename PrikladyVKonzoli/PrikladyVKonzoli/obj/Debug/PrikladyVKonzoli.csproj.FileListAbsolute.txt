@@ -1,0 +1,6 @@
+c:\users\urban\documents\visual studio 2015\Projects\PrikladyVKonzoli\PrikladyVKonzoli\bin\Debug\PrikladyVKonzoli.exe.config
+c:\users\urban\documents\visual studio 2015\Projects\PrikladyVKonzoli\PrikladyVKonzoli\bin\Debug\PrikladyVKonzoli.exe
+c:\users\urban\documents\visual studio 2015\Projects\PrikladyVKonzoli\PrikladyVKonzoli\bin\Debug\PrikladyVKonzoli.pdb
+c:\users\urban\documents\visual studio 2015\Projects\PrikladyVKonzoli\PrikladyVKonzoli\obj\Debug\PrikladyVKonzoli.csprojResolveAssemblyReference.cache
+c:\users\urban\documents\visual studio 2015\Projects\PrikladyVKonzoli\PrikladyVKonzoli\obj\Debug\PrikladyVKonzoli.exe
+c:\users\urban\documents\visual studio 2015\Projects\PrikladyVKonzoli\PrikladyVKonzoli\obj\Debug\PrikladyVKonzoli.pdb

@@ -1,0 +1,6 @@
+c:\users\urban\documents\visual studio 2015\Projects\konverze\konverze\bin\Debug\konverze.exe.config
+c:\users\urban\documents\visual studio 2015\Projects\konverze\konverze\bin\Debug\konverze.exe
+c:\users\urban\documents\visual studio 2015\Projects\konverze\konverze\bin\Debug\konverze.pdb
+c:\users\urban\documents\visual studio 2015\Projects\konverze\konverze\obj\Debug\konverze.csprojResolveAssemblyReference.cache
+c:\users\urban\documents\visual studio 2015\Projects\konverze\konverze\obj\Debug\konverze.exe
+c:\users\urban\documents\visual studio 2015\Projects\konverze\konverze\obj\Debug\konverze.pdb

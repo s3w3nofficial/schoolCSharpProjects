@@ -1,0 +1,6 @@
+c:\users\urban\documents\visual studio 2015\Projects\datoveTypyAKonverze\datoveTypyAKonverze\bin\Debug\datoveTypyAKonverze.exe.config
+c:\users\urban\documents\visual studio 2015\Projects\datoveTypyAKonverze\datoveTypyAKonverze\bin\Debug\datoveTypyAKonverze.exe
+c:\users\urban\documents\visual studio 2015\Projects\datoveTypyAKonverze\datoveTypyAKonverze\bin\Debug\datoveTypyAKonverze.pdb
+c:\users\urban\documents\visual studio 2015\Projects\datoveTypyAKonverze\datoveTypyAKonverze\obj\Debug\datoveTypyAKonverze.csprojResolveAssemblyReference.cache
+c:\users\urban\documents\visual studio 2015\Projects\datoveTypyAKonverze\datoveTypyAKonverze\obj\Debug\datoveTypyAKonverze.exe
+c:\users\urban\documents\visual studio 2015\Projects\datoveTypyAKonverze\datoveTypyAKonverze\obj\Debug\datoveTypyAKonverze.pdb
