@@ -6,7 +6,8 @@ namespace pascalTriangle
 	{
 		public static void Main (string[] args)
 		{
-			int[][] triangle = new int[5][];
+			Console.WriteLine ("Zadejte počet generovaných řádků");
+			int[][] triangle = new int[int.Parse (Console.ReadLine ())][];
 			triangle [0] = new int[]{ 1 };
 			triangle [1] = new int[]{ 1, 1 };
 			for (int i = 2; i < triangle.Length; i++) {
