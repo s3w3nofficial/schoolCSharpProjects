@@ -1,0 +1,5 @@
+/home/martin/Google Drive/škola/private/PRG/projekty/vypatlator/vypatlator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/martin/Google Drive/škola/private/PRG/projekty/vypatlator/vypatlator/bin/Debug/vypatlator.exe.mdb
+/home/martin/Google Drive/škola/private/PRG/projekty/vypatlator/vypatlator/bin/Debug/vypatlator.exe
+/home/martin/Google Drive/škola/private/PRG/projekty/vypatlator/vypatlator/obj/x86/Debug/vypatlator.exe
+/home/martin/Google Drive/škola/private/PRG/projekty/vypatlator/vypatlator/obj/x86/Debug/vypatlator.exe.mdb
