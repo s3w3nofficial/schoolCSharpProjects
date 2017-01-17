@@ -7,6 +7,7 @@ namespace pascalTriangle
 		public static void Main (string[] args)
 		{
 			Console.WriteLine ("Zadejte počet generovaných řádků");
+
 			int[][] triangle = new int[int.Parse (Console.ReadLine ())][];
 			triangle [0] = new int[]{ 1 };
 			triangle [1] = new int[]{ 1, 1 };
@@ -22,7 +23,15 @@ namespace pascalTriangle
 			}
 
 			//Vypis
+			string mezera = "";
+			int delkaMezery = triangle.Length + 1;
 			for (int i = 0; i < triangle.Length; i++) {
+				mezera = "";
+				for (int a = 0; a < delkaMezery; a++) {
+					mezera += " ";
+				}
+				delkaMezery -= 1;
+				Console.Write (mezera);
 				for (int j = 0; j < triangle[i].Length; j++) {
 					Console.Write (triangle[i][j] + " ");
 				}

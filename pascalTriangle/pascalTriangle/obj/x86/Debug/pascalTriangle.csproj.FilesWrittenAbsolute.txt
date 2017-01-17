@@ -8,3 +8,8 @@
 /home/martin/Google Drive/škola/private/PRG/projekty/pascalTriangle/pascalTriangle/bin/Debug/pascalTriangle.exe
 /home/martin/Google Drive/škola/private/PRG/projekty/pascalTriangle/pascalTriangle/obj/x86/Debug/pascalTriangle.exe
 /home/martin/Google Drive/škola/private/PRG/projekty/pascalTriangle/pascalTriangle/obj/x86/Debug/pascalTriangle.exe.mdb
+/media/pelda/4576373A4C2F7F9A/schoolCSharpProjects/pascalTriangle/pascalTriangle/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/pelda/4576373A4C2F7F9A/schoolCSharpProjects/pascalTriangle/pascalTriangle/bin/Debug/pascalTriangle.exe.mdb
+/media/pelda/4576373A4C2F7F9A/schoolCSharpProjects/pascalTriangle/pascalTriangle/bin/Debug/pascalTriangle.exe
+/media/pelda/4576373A4C2F7F9A/schoolCSharpProjects/pascalTriangle/pascalTriangle/obj/x86/Debug/pascalTriangle.exe
+/media/pelda/4576373A4C2F7F9A/schoolCSharpProjects/pascalTriangle/pascalTriangle/obj/x86/Debug/pascalTriangle.exe.mdb
